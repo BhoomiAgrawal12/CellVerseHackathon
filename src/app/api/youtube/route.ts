@@ -96,7 +96,10 @@ export async function GET(req: NextRequest) {
     videos.sort((a, b) => b.likes - a.likes || b.views - a.views);
     console.log("EXIT VIDEO", videos[0].id);
 
-    return NextResponse.json({ bestVideo: videos[0] }, { status: 201 });
+    return NextResponse.json(
+      { bestVideo: videos[0], allVideos: videos },
+      { status: 201 }
+    );
   } catch (error) {
     console.error("Error fetching videos:", error);
     return NextResponse.json(

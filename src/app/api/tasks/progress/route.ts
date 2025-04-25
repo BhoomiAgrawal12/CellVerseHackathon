@@ -98,7 +98,7 @@ export async function GET(req: Request) {
     }
     return NextResponse.json(progress);
   } catch (error) {
-    console.error("Error retrieving progress:", error);
+    console.error(`Error retrieving progress: ${error}`);
     return NextResponse.json(
       { error: "Failed to retrieve progress" },
       { status: 500 }

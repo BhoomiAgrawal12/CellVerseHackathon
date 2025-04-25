@@ -1,7 +1,6 @@
-
 import { NextRequest, NextResponse } from "next/server";
 import { db } from "@/lib/db";
-import tasksData from "@/lib/data/tasks.json";
+import tasksDataImport from "@/lib/data/tasks.json";
 import { auth } from "../../../../../auth";
 
 interface Activity {
@@ -20,14 +19,25 @@ interface Day {
 
 interface Week {
   week: number;
+  theme: string;
   days: Day[];
 }
 
-interface TasksData {
+interface DisorderTasks {
   tasks: {
     weeks: Week[];
+    notes: Record<string, unknown>;
   };
+  youtube_keywords?: string[];
 }
+
+interface TasksData {
+  Depression: DisorderTasks;
+  [key: string]: DisorderTasks;
+}
+
+// Type the imported data
+const tasksData = tasksDataImport as TasksData;
 
 // Helper function to combine physical and thoughtful tasks into a single string
 const combineTasks = (
@@ -47,7 +57,7 @@ const combineTasks = (
 export async function POST(req: NextRequest) {
   try {
     const { disease, severity } = await req.json();
-    const disorder = disease;
+    const disorder = disease as string;
     const session = await auth();
     const userId = await session?.user.id;
     // console.log(req);
@@ -80,13 +90,22 @@ export async function POST(req: NextRequest) {
     if (!user) {
       return NextResponse.json({ error: "User not found" }, { status: 404 });
     }
-    const data: any = tasksData[disorder];
+
+    // Check if the disorder exists in the tasksData
+    if (!tasksData[disorder]) {
+      return NextResponse.json(
+        { error: "Unsupported disorder type" },
+        { status: 400 }
+      );
+    }
+
+    const data = tasksData[disorder];
     // Extract tasks from JSON
-    const weeks = (data as unknown as TasksData).tasks.weeks;
+    const weeks = data.tasks.weeks;
     const tasks: {
-      userId: any;
-      disorder: any;
-      severity: any;
+      userId: string;
+      disorder: string;
+      severity: string;
       week: number;
       day: number;
       task: string;
@@ -110,18 +129,18 @@ export async function POST(req: NextRequest) {
           activities.physical_activities,
           activities.thoughtful_tasks
         );
-        for (let taskIdx = 0; taskIdx < weeks.length; taskIdx++) {
-        tasks.push({
-          userId,
-          disorder,
-          severity,
-          week: weekNumber,
-          day: dayNumber,
-          task: combinedTasks[taskIdx],
-          status: "pending" as const,
-          reflection: null,
-        });
-      }
+        for (let taskIdx = 0; taskIdx < combinedTasks.length; taskIdx++) {
+          tasks.push({
+            userId,
+            disorder,
+            severity,
+            week: weekNumber,
+            day: dayNumber,
+            task: combinedTasks[taskIdx],
+            status: "pending" as const,
+            reflection: null,
+          });
+        }
       }
     }
 
@@ -143,7 +162,7 @@ export async function POST(req: NextRequest) {
   } catch (error) {
     console.error("Error assigning tasks:", error);
     return NextResponse.json(
-      { error: "Failed to assign tasks:"},
+      { error: "Failed to assign tasks:" },
       { status: 500 }
     );
   }
@@ -152,7 +171,7 @@ export async function POST(req: NextRequest) {
 // PATCH: Update task status
 export async function PATCH(req: NextRequest) {
   try {
-    const {taskId, status} = await req.json();
+    const { taskId, status } = await req.json();
     const session = await auth();
     const userId = await session?.user.id;
 
@@ -180,7 +199,7 @@ export async function PATCH(req: NextRequest) {
 
     // Update tasks
     const updated = await db.dailyTask.update({
-      where: { id: taskId},
+      where: { id: taskId },
       data: {
         status,
       },

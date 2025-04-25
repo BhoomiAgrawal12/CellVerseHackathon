@@ -17,12 +17,23 @@ interface DailyTask {
   reflection?: string;
   createdAt: string;
 }
-
+interface Video {
+  id: string;
+  userId: string;
+  disorder: string;
+  severity: string;
+  week: number;
+  day: number;
+  activity: string;
+  status: "pending" | "completed" | "skipped" | string;
+  reflection?: string;
+  createdAt: string;
+}
 const TaskManager = () => {
   const [tasks, setTasks] = useState<
     Record<number, Record<number, DailyTask[]>>
   >({});
-  const [videos, setVideos] = useState<any[]>([]);
+  const [videos, setVideos] = useState<Video[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedWeek, setSelectedWeek] = useState<number>(1);
   const [selectedDay, setSelectedDay] = useState<number>(1);
@@ -41,7 +52,7 @@ const TaskManager = () => {
     fetch("/api/youtube-activities/assign")
       .then((res) => res.json())
       .then((data) => {
-        console.log("Fetched Tasks:", data);
+        console.log("Fetched Videos:", data);
         setVideos(data);
         setLoading(false);
       })
@@ -105,7 +116,7 @@ const TaskManager = () => {
     //   ...prev,
     //   [selectedWeek]: {
     //     ...prev[selectedWeek],
-    //     [selectedDay]: prev[selectedWeek][selectedDay].map((task) =>
+    //     [selectedDay]: prev[selectedWeek][selectedDay].map((task: any) =>
     //       task.id === taskId ? { ...task, status: "completed" } : task
     //     ),
     //   },
@@ -237,13 +248,20 @@ const TaskManager = () => {
               </span>
 
               <div className="flex items-center mt-4 justify-start gap-2">
-                <Link
+                {/* <Link
                   href="/youtube"
                   className="bg-green-500 text-white px-4 py-2 rounded-lg transition-transform transform hover:scale-105 disabled:opacity-80"
                 >
                   {" "}
                   Take Activity
-                </Link>
+                </Link> */}
+                <Button
+                  onClick={() => handleVideo(task.activity)}
+                  disabled={task.status !== "pending"}
+                  className="bg-green-500 text-white px-4 py-2 rounded-lg transition-transform transform hover:scale-105 disabled:opacity-80"
+                >
+                  Take Activity
+                </Button>
 
                 <Button
                   onClick={() => handleTakeActivity2(task.id)}

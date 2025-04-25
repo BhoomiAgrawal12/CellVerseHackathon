@@ -50,39 +50,33 @@ interface GameProgress {
   gameData?: any;
 }
 
-interface DashboardProps {
-  initialData: GameProgress[];
-}
-
-export default function Dashboard({ initialData }: DashboardProps) {
-  const [gameData, setGameData] = useState<GameProgress[]>(initialData || []);
-  const [loading, setLoading] = useState<boolean>(initialData?.length === 0);
+export default function Dashboard() {
+  const [gameData, setGameData] = useState<GameProgress[]>([]);
+  const [loading, setLoading] = useState<boolean>(true);
   const [timeRange, setTimeRange] = useState<string>("week");
   const [selectedMetric, setSelectedMetric] = useState<string>("score");
 
   useEffect(() => {
-    if (!initialData || initialData.length === 0) {
-      const fetchData = async () => {
-        setLoading(true);
-        try {
-          const response = await fetch("/api/games/progress", {
-            method: "GET",
-          });
-          const data: GameProgress[] = await response.json();
-          if (Array.isArray(data)) {
-            setGameData(data);
-          } else {
-            console.error("Fetched data is not an array:", data);
-          }
-        } catch (error) {
-          console.error("Error fetching game progress:", error);
-        } finally {
-          setLoading(false);
+    const fetchData = async () => {
+      setLoading(true);
+      try {
+        const response = await fetch("/api/games/progress", {
+          method: "GET",
+        });
+        const data: GameProgress[] = await response.json();
+        if (Array.isArray(data)) {
+          setGameData(data);
+        } else {
+          console.error("Fetched data is not an array:", data);
         }
-      };
-      fetchData();
-    }
-  }, [initialData]);
+      } catch (error) {
+        console.error("Error fetching game progress:", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchData();
+  }, []);
 
   // Calculate metrics
   const calculateAverages = () => {

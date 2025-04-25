@@ -42,6 +42,21 @@ const Menuitems = [
     href: "/PatientDashboard/DiseasePrediction",
   },
   {
+    title: "Gamified Recovery",
+    icon: IconRun,
+    href: "/ptsd/games",
+  },
+  {
+    title: "Task streak",
+    icon: IconRun,
+    href: "/streak",
+  },
+  {
+    title: "Game Streak",
+    icon: IconRun,
+    href: "/gameprogress",
+  },
+  {
     title: "AI BOT",
     icon: IconRobot,
     href: "/AIBot",

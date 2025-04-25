@@ -23,7 +23,7 @@ export async function POST(req: NextRequest) {
     const { disease, severity } = await req.json();
     const session = await auth();
     const disorder = disease;
-    
+
     const userId = await session?.user.id;
     // Validation
     if (!userId || !disorder) {
@@ -61,7 +61,7 @@ export async function POST(req: NextRequest) {
           activity: getRandomKeyword(keywords), // Random keyword from disorder's list
           status: "pending" as const,
           reflection: null,
-          severity: "",
+          severity: severity,
           week,
           disorder: disorder,
         });

@@ -8,10 +8,7 @@ const VideoPage = () => {
   console.log("Query:", query);
   const [videoId, setVideoId] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    setVideoId(query);
-  }, [query]);
+  setVideoId(query);
 
   // useEffect(() => {
   //   // Fetch YouTube video ID based on query from backend
