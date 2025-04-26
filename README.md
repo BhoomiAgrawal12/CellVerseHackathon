@@ -16,7 +16,7 @@ It features **gamified recovery modules**, **personalized diet charts** , **symp
 
 ## Video Demo
 
-Watch our project demo here: [Swasthika Demo Video](https://drive.google.com/file/d/1rBWRtJfZFnloudwv-PtoMUsALH0D1YmR/view)
+[![Swasthika Demo Video](https://img.youtube.com/vi/pXk0scN35GI/0.jpg)](https://www.youtube.com/watch?v=pXk0scN35GI)
 
 ## Tech Stack
 
