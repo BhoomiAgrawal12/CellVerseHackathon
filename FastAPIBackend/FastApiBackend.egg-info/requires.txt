@@ -1,0 +1,11 @@
+chromadb
+cors
+fastapi
+langchain
+langchain_community
+langchain_google_genai
+pypdf
+python-dotenv
+sentence-transformers
+unstructured
+uvicorn

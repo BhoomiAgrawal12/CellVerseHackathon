@@ -1,0 +1,7543 @@
+%PDF-1.3
+%�߬�
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2076
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+({) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(  "intents": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "tag": "greeting",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "Hi",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Hey",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "Is anyone there?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "Hi there",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "Hello",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Hey there",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "Howdy",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Hola",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Bonjour",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "Konnichiwa",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "Guten tag",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Ola") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "Hello there. Tell me how are you feeling today?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "Hi there. What brings you here today?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "Hi there. How are you feeling today?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "Great to see you. How do you feel currently?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "Hello there. Glad to see you're back. What's going on in your world right now?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "tag": "morning",) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1969
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "Good morning") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "Good morning. I hope you had a good night's sleep. How are you feeling today? ") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "afternoon",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Good afternoon") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Good afternoon. How is your day going?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      "tag": "evening",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "Good evening") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "Good evening. How has your day been?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "tag": "night",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "patterns": [) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 1958
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "Good night") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "Good night. Get some proper sleep",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "Good night. Sweet dreams.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "goodbye",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Bye",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "See you later",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Goodbye",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Au revoir",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "Sayonara",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "ok bye",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Bye then",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "Fare thee well") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "See you later.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "Have a nice day.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "Bye! Come back again.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "I'll see you soon.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "tag": "thanks",) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2002
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "Thanks",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "Thank you",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "That's helpful",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "Thanks for the help",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "Than you very much") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "Happy to help!",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "Any time!",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "My pleasure",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "You're most welcome!") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      "tag": "no-response",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "Sorry, I didn't understand you.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "Please go on.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "Not sure I understand that.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "Please don't hesitate to talk to me.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "tag": "neutral-response",) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2273
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "nothing much") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "Oh I see. Do you want to talk about something?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "about",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Who are you?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "What are you?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Who you are?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Tell me more about yourself.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "What is your name?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "What should I call you?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "What's your name?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "Tell me about yourself") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "I'm Pandora, your Personal Therapeutic AI Assistant. How are you feeling today",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about yourself.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "You can call me Pandora.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "I'm Pandora!",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "Call me Pandora") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(    },) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 2282
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      "tag": "skill",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "What can you do?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      "tag": "creation",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Who created you?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "How were you made?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "How were you created?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "I was created by >.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "I was trained on a text dataset using Deep Learning & Natural Language Processing techniques",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "The real question is: Who created you?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "tag": "name",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "My name is ",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "I am name.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "I go by ") Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 2149
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "Oh nice to meet you. Tell me how was your week?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "Nice to meet you. So tell me. How do you feel today?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "That's a great name. Tell me more about yourself.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "help",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Could you help me?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "give me a hand please",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Can you help?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "What can you do for me?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "I need support",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "I need help",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Support me please") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "Sure. Tell me how can i assist you",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "Tell me your problem so that i can assist you",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "Yes, sure. How can I help you?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      "tag": "sad",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "I am feeling lonely",) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 2362
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "I am so lonely",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "I feel down",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "I feel sad",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "I am sad",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "I feel so lonely",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "I feel empty",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "I don't have anyone") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "I'm here for you. Could you tell me why you're feeling this way?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "Why do you think you feel this way?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "How long have you been feeling this way?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "tag": "stressed",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "I am so stressed out",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "I am so stressed",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "I feel stuck",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "I still feel stressed",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "I am so burned out") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "What do you think is causing this?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "Give yourself a break. Go easy on yourself.",) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 2555
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "I am sorry to hear that. What is the reason behind this?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "tag": "worthless",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "I feel so worthless.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "No one likes me.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "I can't do anything.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "I am so useless",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Nothing makes sense anymore") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "It's only natural to feel this way. Tell me more. What else is on your mind?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "Let's discuss further why you're feeling this way.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "I first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "i first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "tag": "depressed",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "I can't take it anymore",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "I am so depressed",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "I think i'm depressed.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "I have depression") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "responses": [) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 2252
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "It helps to talk about what's happening. You're going to be okay",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "Talk to me. Tell me more. It helps if you open up yourself to someone else.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      "tag": "happy",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "I feel great today.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "I am happy.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "I feel happy.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "I'm good.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "cheerful",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "I'm fine",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "I feel ok") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "That's geat to hear. I'm glad you're feeling this way.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "Oh i see. That's great.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "Did something happen which made you feel this way?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "tag": "casual",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "Oh I see.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "ok",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "okay",) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 2172
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "nice",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "Whatever",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "K",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "Fine",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "yeah",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "yes",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "no",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "not really") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Let's discuss further why you're feeling this way.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "How were you feeling last week?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "I'm listening. Please go on.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Tell me more",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "Can you elaborate on that?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "Come Come elucidate your thoughts") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "tag": "anxious",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "I feel so anxious.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "I'm so anxious because of ") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "Don't be hard on yourself. What's the reason behind this?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "Can you tell me more about this feeling?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "I understand that it can be scary. Tell me more about it.",) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 2442
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "Don't let the little worries bring you down. What's the worse that can happen?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "tag": "not-talking",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "I don't want to talk about it.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "No just stay away.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "I can't bring myself to open up.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "Just shut up") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, whenever you need me.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "I'm here to listen to you and help you vent. So please talk to me.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "You can talk to me without fear of judgement.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "tag": "sleep",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "I have insominia",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "I am suffering from insomnia",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "I can't sleep.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "I haven't slept for the last days.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "I can't seem to go to sleep.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "I haven't had proper sleep for the past few days.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      ],) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 2231
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "What do you think is the reason behind this?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "That seem awful. What do you think is behind this?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      "tag": "scared",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "I'm scared",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "That sounds awful. What do i do?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "No i don't want to feel this way",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "I am scared for myself") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "It's only natural to feel this way. I'm here for you.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "It'll all be okay. This feeling is only momentary.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "I understand how you feel. Don't put yourself down because of it.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "tag": "death",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "My mom died",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "My brother died",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "My dad passed away",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "My sister passed away",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "Someone in my family died",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "My friend passed away") Tj
+ET
+endstream
+endobj
+29 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 2351
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "I'm sorry to hear that. If you want to talk about it. I'm here.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "My condolences. I'm here if you need to talk.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "understand",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "You don't understand me.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "You're just some robot. How would you know?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "You can't possibly know what i'm going through",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "You're useless",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "You can't help me",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "Nobody understands me.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "It sound like i'm not being very helpful right now.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "I'm sorry to hear that. I'm doing my best to help",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "I'm trying my best to help you. So please talk to me") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "tag": "done",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "That's all.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "I don't have anything more to say",) Tj
+ET
+endstream
+endobj
+31 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 2260
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "Nothing else",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "That's all i have to say",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "no, that would be all") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "I heard you & noted it all. See you later.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Oh okay we're done for today then. See you later",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "I hope you have a great day. See you soon",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "Okay we're done. Have a great day",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "Okay I see. Enjoy the rest of your day then") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "tag": "suicide",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "I want to kill myself",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "I've thought about killing myself.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "I want to die",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "I am going to kill myself",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "I am going to commit suicide") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "tag": "hate-you",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "patterns": [) Tj
+ET
+endstream
+endobj
+33 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 2102
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "I hate you",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "I don't like you",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "I don't trust you") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "I'm sorry if i offended you in anyway. I'm only here to help",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Forgive me if i did anything to offend you. I only want to help") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      "tag": "hate-me",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "You hate me",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "I know you hate me",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "You don't like me") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "Why do you think so?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "I'm sorry if i have exhibited any sort of behaviour to make you think that.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      "tag": "default",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "exams",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "friends",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "relationship",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "boyfriend",) Tj
+ET
+endstream
+endobj
+35 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 2044
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "girlfriend",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "family",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "money",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "financial problems") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Oh I see. Tell me more",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "I see. What else?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "Tell me more about it.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "Oh okay. Why don't you tell me more about it?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "I'm listening. Tell me more.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "tag": "jokes",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Tell me a joke",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "Tell me another joke") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "mental health is not a joke.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "tag": "repeat",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "You already told me that",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "You mentioned that already",) Tj
+ET
+endstream
+endobj
+37 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 2092
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "Why are you repeating yourself?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "Oh sorry I didn't realise that. I'll try not to repeat myself again.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      "tag": "wrong",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "What are you saying?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "That doesn't make sense",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "Wrong response",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Wrong answer") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "I'm very sorry. Let's try that again") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "tag": "stupid",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "Are you stupid?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "You're crazy",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "You are dumb",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "Are you dumb?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful") Tj
+ET
+endstream
+endobj
+39 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 40 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 2164
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "tag": "location",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "Where are you?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Where do you live?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "What is your location?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "Duh I live in your computer",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "Everywhere",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Somewhere in the universe") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "tag": "something-else",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "I want to talk about something else",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "Let's talk about something else.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "Can we not talk about this?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "I don't want to talk about this.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "Okay sure. What do you want to talk about?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "Alright no problem. Is there something you want to talk about?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "Is there something else that you want to talk about?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      ]) Tj
+ET
+endstream
+endobj
+41 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 2252
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "tag": "friends",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "I don't have any friends") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      "tag": "ask",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Can I ask you something?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Sure. I'll try my best to answer you",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "Of course. Feel free to ask me anything. I'll do my best to answer you") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "tag": "problem",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "probably because of my exams") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "I see. Have you taken any approaches to not feel this way?") Tj
+ET
+endstream
+endobj
+43 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 2342
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "tag": "no-approach",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "I guess not. All I can think about are my exams.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "not really",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "i guess not") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "tag": "learn-more",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "ok sure. i would like to learn more about it.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "yes, i would like to learn more about it.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "i would like to learn more about it.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      "tag": "user-agree",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "yeah you're right. i deserve a break.",) Tj
+ET
+endstream
+endobj
+45 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 2788
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "Yeah you're absolutely right about that") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      "tag": "meditation",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "hmmm that sounds like it could be useful to me.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "That sounds useful.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      "tag": "user-meditation",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "i did what you said and i feel alot better. thank you very much.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "I feel better now") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "tag": "pandora-useful",) Tj
+ET
+endstream
+endobj
+47 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 48 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 2288
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "thank you very much again. i'll continue practicing meditation and focus on what i can control.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "I'm glad you found this useful. Is there something else I can help you with?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "user-advice",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "I want some advice.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "I need some advice.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "I need advice on something") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "Sure. What can I do to help?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Okay what do you need advice on?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "tag": "learn-mental-health",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "I want to learn about mental health.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "I want to learn more about mental health.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "I'm interested in learning about mental health.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "Oh that's really great. I'd be willing to answer anything that I know about it.") Tj
+ET
+endstream
+endobj
+49 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 50 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 2564
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "tag": "mental-health-fact",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "Tell me a fact about mental health",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Tell me another fact about mental health") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "1 in 5 young people \(age 13-18\) has or will develop a mental illness in their lifetime.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "Depression is the leading cause of disability worldwide.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      "tag": "fact-1",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "What is mental health?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "Define Mental Health") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "tag": "fact-2",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "patterns": [) Tj
+ET
+endstream
+endobj
+51 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 2586
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "Why is mental health important?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "What is the importance of mental health?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "fact-3",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "What is Depression?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "Define Depression") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "tag": "fact-5",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "How do i know if i have Depression?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "Am i depressed?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "Am i suffering from depression?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "Am i mentally ill?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      ]) Tj
+ET
+endstream
+endobj
+53 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 54 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 2456
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "tag": "fact-6",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "What is a therapist?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "What does a therapist do?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. ") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "tag": "fact-7",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "What is therapy?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "Do i need therapy?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Who is therapy for?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "Therapy is a form of treatment that aims to help resolve mental or emotional issues.",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "tag": "fact-8",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "What does it mean to have a mental illness?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      ],) Tj
+ET
+endstream
+endobj
+55 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 56 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 5774
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      "tag": "fact-9",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "Who does mental illness affect?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childâ€™s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances \(SEDs\).") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "tag": "fact-10",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "What causes mental illness?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their child's mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances \(SEDs\).") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "tag": "fact-11",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "What are some of the warning signs of mental illness?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "responses": [) Tj
+ET
+endstream
+endobj
+57 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 58 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 5009
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(        "Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once. \\n In adults:\\n Confused thinking\\n Long-lasting sadness or irritability\\n Extreme highs and lows in mood\\n Excessive fear, worrying, or anxiety\\n Social withdrawal\\n Dramatic changes in eating or sleeping habits\\n Strong feelings of anger\\n Delusions or hallucinations \(seeing or hearing things that are not really there\)\\n Increasing inability to cope with daily problems and activities\\n Thoughts of suicide\\n Denial of obvious problems\\n Many unexplained physical problems\\n Abuse of drugs and/or alcohol\\n \\nIn older children and pre-teens:\\n Abuse of drugs and/or alcohol\\n Inability to cope with daily problems and activities\\n Changes in sleeping and/or eating habits\\n Excessive complaints of physical problems\\n Defying authority, skipping school, stealing, or damaging property\\n Intense fear of gaining weight\\n Long-lasting negative mood, often along with poor appetite and thoughts of death\\n Frequent outbursts of anger\\n \\nIn younger children:\\n Changes in school performance\\n Poor grades despite strong efforts\\n Excessive worrying or anxiety\\n Hyperactivity\\n Persistent nightmares\\n Persistent disobedience and/or aggressive behavior\\n Frequent temper tantrums") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "tag": "fact-12",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Can people with mental illness recover?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(        "When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "tag": "fact-13",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "What should I do if I know someone who appears to have the symptoms of a mental disorder?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(        "Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      "tag": "fact-14",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "How can I find a mental health professional for myself or my child?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(        "Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area.") Tj
+ET
+endstream
+endobj
+59 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 60 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 3601
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "tag": "fact-15",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "What treatment options are available?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(        "Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "tag": "fact-16",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "If I become involved in treatment, what do I need to know?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(        "Since beginning treatment is a big step for individuals and families, it can be very overwhelming. It is important to be as involved and engaged in the treatment process as possible. Some questions you will need to have answered include:\\n What is known about the cause of this particular illness?\\n Are there other diagnoses where these symptoms are common?\\n Do you normally include a physical or neurological examination?\\n Are there any additional tests or exams that you would recommend at this point?\\n Would you advise an independent opinion from another psychiatrist at this point?\\n What program of treatment is the most helpful with this diagnosis?\\n Will this program involve services by other specialists? If so, who will be responsible for coordinating these services?\\n What do you see as the family's role in this program of treatment?\\n How much access will the family have to the individuals who are providing the treatment?\\n What medications are generally used with this diagnosis?\\n How much experience do you have in treating individuals with this illness?\\n What can I do to help you in the treatment?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "tag": "fact-17",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "What is the difference between mental health professionals?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(        "There are many types of mental health professionals. The variety of providers and their services may be confusing. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      ]) Tj
+ET
+endstream
+endobj
+61 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 62 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 4203
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "tag": "fact-18",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "How can I find a mental health professional right for my child or myself?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(        "Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      "tag": "fact-19",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Where else can I get help?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(        "Where you go for help will depend on the nature of the problem and/or symptoms and what best fits you. Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. Search for mental health resources in your area. Secondly, there are people and places throughout the country that provide services to talk, to listen, and to help you on your journey to recovery. Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer led while others may be led by a mental health professional.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "tag": "fact-20",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(        "What should I know before starting a new medication?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(        "The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:    \\n1. What is the medication supposed to do? \\n2. When should it begin to take effect, and how will I know when it is effective? \\n3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? \\n4. What are the side effects and what should be done if they occur? \\n5. What do I do if a dose is missed? \\n6. Is there any written information available about this medication? \\n7. Are there other medications that might be appropriate? \\n8. If so, why do you prefer the one you have chosen? \\n9. How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? \\n10. All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(    },) Tj
+ET
+endstream
+endobj
+63 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 64 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 2715
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      "tag": "fact-21",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(        "Where can I go to find therapy?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(        "Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them \(for example, children will benefit from a therapist who specializes in children’s mental health\). However, there are several different types of treatment and therapy that can help.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      "tag": "fact-22",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(        "Where can I learn about types of mental health treatment?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(        "Mental health conditions are often treated with medication, therapy or a combination of the two. However, there are many different types of treatment available, including Complementary & Alternative Treatments, self-help plans, and peer support. Treatments are very personal and should be discussed by the person with the mental health conditions and his or her team.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "tag": "fact-23",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "What are the different types of mental health professionals?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "There are many types of mental health professionals. Finding the right one for you may require some research.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(    {) Tj
+ET
+endstream
+endobj
+65 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 66 0 R
+>>
+endobj
+66 0 obj
+<<
+/Length 2585
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "tag": "fact-24",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "Where can I go to find a support group?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "Many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members and friends. Some support groups are peer-led, while others may be led by a mental health professional.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "tag": "fact-25",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "Can you prevent mental health problems?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "tag": "fact-26",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "Are there cures for mental health problems?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(        "is there any cure for mental health problems?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(        "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(    {) Tj
+ET
+endstream
+endobj
+67 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 68 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 2562
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "tag": "fact-27",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(        "What causes mental health problems?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(        "Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "tag": "fact-28",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(        "What do I do if I'm worried about my mental health?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(        "The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "tag": "fact-29",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "How do I know if I'm unwell?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "If your beliefs , thoughts , feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(      "tag": "fact-30",) Tj
+ET
+endstream
+endobj
+69 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 70 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 6475
+>>
+stream
+0.57 w
+0 G
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 813.54 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 785.20 Td
+(        "How can I maintain social connections? What if I feel lonely?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 756.85 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 728.50 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 700.16 Td
+(        "A lot of people are alone right now, but we don't have to be lonely. We're all in this together. Think about the different ways to connect that are most meaningful for you. For example, you might prefer a video chat over a phone call, or you might prefer to text throughout the day rather than one set time for a video call. Then, work with your social networks to make a plan. You might video chat with your close friends in the evening and phone a family member once a week. Remember to be mindful of people who may not be online. Check in by phone and ask how you can help. The quality of your social connections matter. Mindlessly scrolling through social media and liking a few posts usually doesn't build strong social connections. Make sure you focus on strategies that actually make you feel included and connected. If your current strategies don't help you feel connected, problem-solve to see if you can find a solution. Everyone feels lonely at times. Maybe you recently moved to a new city, are changing your circle of friends, lost someone important in your life, or lost your job and also lost important social connections with coworkers. Other people may have physical connections to others but may feel like their emotional or social needs aren't met. Measures like social distancing or self-isolation can make loneliness feel worse no matter why you feel lonely now. Reach out to the connections you do have. Suggest ways to keep in touch and see if you can set a regular time to connect. People may hesitate to reach out for a lot of different reasons, so don't be afraid to be the one who asks. Look for local community support groups and mutual aid groups on social media. This pandemic is bringing everyone together, so look for opportunities to make new connections. These groups are a great way to share your skills and abilities or seek help and support. Look for specialized support groups. Support groups are moving online, and there are a lot of different support lines to call if you need to talk to someone.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 671.81 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 643.46 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 615.12 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 586.77 Td
+(      "tag": "fact-31",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 558.43 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 530.08 Td
+(        "What's the difference between anxiety and stress?") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 501.73 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 473.39 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 445.04 Td
+(        "Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety. Stress is related to the same fight, flight, or freeze response as anxiety, and the physical sensations of anxiety and stress may be very similar. The cause of stress and anxiety are usually different, however. Stress focuses on mainly external pressures on us that we're finding hard to cope with. When we are stressed, we usually know what we're stressed about, and the symptoms of stress typically disappear after the stressful situation is over. Anxiety, on the other hand, isn't always as easy to figure out. Anxiety focuses on worries or fears about things that could threaten us, as well as anxiety about the anxiety itself. Stress and anxiety are both part of being human, but both can be problems if they last for a long time or have an impact on our well-being or daily life.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 416.69 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 388.35 Td
+(    },) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 360.00 Td
+(    {) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 331.65 Td
+(      "tag": "fact-32",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 303.31 Td
+(      "patterns": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 274.96 Td
+(        "What's the difference between sadness and depression?",) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 246.61 Td
+(        "difference between sadness and depression") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 218.27 Td
+(      ],) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 189.92 Td
+(      "responses": [) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 161.58 Td
+(        "Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations. Feeling sad from time to time is just another part of being human. In these cases, feelings of sadness go away quickly and you can go about your daily life. Other ways to talk about sadness might be feeling low, feeling down, or feeling blue.A person may say they are feeling depressed, but if it goes away on its own and doesn't impact life in a big way, it probably isn't the illness of depression. Depression is a mental illness that affects your mood, the way you understand yourself, and the way you understand and relate to things around you. It can also go by different names, such as clinical depression, major depressive disorder, or major depression. Depression can come up for no reason, and it lasts for a long time. It's much more than sadness or low mood. People who experience depression may feel worthless or hopeless. They may feel unreasonable guilty. Some people may experience depression as anger or irritability. It may be hard to concentrate or make decisions. Most people lose interest in things that they used to enjoy and may isolate themselves from others. There are also physical signs of depression, such as problems with sleep, appetite and energy and unexplainable aches or pains. Some may experience difficult thoughts about death or ending their life \(suicide\). Depression lasts longer than two weeks, doesn't usually go away on its own, and impacts your life. It's a real illness, and it is very treatable. It's important to seek help if you're concerned about depression.") Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 133.23 Td
+(      ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 104.88 Td
+(    }) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 76.54 Td
+(  ]) Tj
+ET
+BT
+/F1 16 Tf
+18.40 TL
+0 g
+28.35 48.19 Td
+(}) Tj
+ET
+endstream
+endobj
+71 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 72 0 R
+>>
+endobj
+72 0 obj
+<<
+/Length 10
+>>
+stream
+0.57 w
+0 G
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R ]
+/Count 35
+>>
+endobj
+73 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+74 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+75 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+76 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+77 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+78 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+79 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+80 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+81 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+82 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+83 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+84 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+85 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+86 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 73 0 R
+/F2 74 0 R
+/F3 75 0 R
+/F4 76 0 R
+/F5 77 0 R
+/F6 78 0 R
+/F7 79 0 R
+/F8 80 0 R
+/F9 81 0 R
+/F10 82 0 R
+/F11 83 0 R
+/F12 84 0 R
+/F13 85 0 R
+/F14 86 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+87 0 obj
+<<
+/Producer (jsPDF 1.5.3)
+/CreationDate (D:20250416193500+05'30')
+>>
+endobj
+88 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 89
+0000000000 65535 f 
+0000097689 00000 n 
+0000099747 00000 n 
+0000000015 00000 n 
+0000000124 00000 n 
+0000002252 00000 n 
+0000002361 00000 n 
+0000004382 00000 n 
+0000004491 00000 n 
+0000006501 00000 n 
+0000006611 00000 n 
+0000008666 00000 n 
+0000008777 00000 n 
+0000011103 00000 n 
+0000011214 00000 n 
+0000013549 00000 n 
+0000013660 00000 n 
+0000015862 00000 n 
+0000015973 00000 n 
+0000018388 00000 n 
+0000018499 00000 n 
+0000021107 00000 n 
+0000021218 00000 n 
+0000023523 00000 n 
+0000023634 00000 n 
+0000025859 00000 n 
+0000025970 00000 n 
+0000028465 00000 n 
+0000028576 00000 n 
+0000030860 00000 n 
+0000030971 00000 n 
+0000033375 00000 n 
+0000033486 00000 n 
+0000035799 00000 n 
+0000035910 00000 n 
+0000038065 00000 n 
+0000038176 00000 n 
+0000040273 00000 n 
+0000040384 00000 n 
+0000042529 00000 n 
+0000042640 00000 n 
+0000044857 00000 n 
+0000044968 00000 n 
+0000047273 00000 n 
+0000047384 00000 n 
+0000049779 00000 n 
+0000049890 00000 n 
+0000052731 00000 n 
+0000052842 00000 n 
+0000055183 00000 n 
+0000055294 00000 n 
+0000057911 00000 n 
+0000058022 00000 n 
+0000060661 00000 n 
+0000060772 00000 n 
+0000063281 00000 n 
+0000063392 00000 n 
+0000069219 00000 n 
+0000069330 00000 n 
+0000074392 00000 n 
+0000074503 00000 n 
+0000078157 00000 n 
+0000078268 00000 n 
+0000082524 00000 n 
+0000082635 00000 n 
+0000085403 00000 n 
+0000085514 00000 n 
+0000088152 00000 n 
+0000088263 00000 n 
+0000090878 00000 n 
+0000090989 00000 n 
+0000097517 00000 n 
+0000097628 00000 n 
+0000097982 00000 n 
+0000098108 00000 n 
+0000098239 00000 n 
+0000098373 00000 n 
+0000098511 00000 n 
+0000098635 00000 n 
+0000098764 00000 n 
+0000098896 00000 n 
+0000099032 00000 n 
+0000099160 00000 n 
+0000099287 00000 n 
+0000099416 00000 n 
+0000099549 00000 n 
+0000099651 00000 n 
+0000100000 00000 n 
+0000100086 00000 n 
+trailer
+<<
+/Size 89
+/Root 88 0 R
+/Info 87 0 R
+/ID [ <6A31543B037833C130F24059129FE581> <6A31543B037833C130F24059129FE581> ]
+>>
+startxref
+100190
+%%EOF

@@ -90,6 +90,7 @@ export async function POST(req: NextRequest) {
     if (!user) {
       return NextResponse.json({ error: "User not found" }, { status: 404 });
     }
+<<<<<<< HEAD
 
     // Check if the disorder exists in the tasksData
     if (!tasksData[disorder]) {
@@ -102,6 +103,11 @@ export async function POST(req: NextRequest) {
     const data = tasksData[disorder];
     // Extract tasks from JSON
     const weeks = data.tasks.weeks;
+=======
+    
+    const data = tasksData[disorder as keyof typeof tasksData];    // Extract tasks from JSON
+    const weeks = (data as unknown as TasksData).tasks.weeks;
+>>>>>>> 32b80f26170e47fe66bccc637565f49a38efb2cb
     const tasks: {
       userId: string;
       disorder: string;

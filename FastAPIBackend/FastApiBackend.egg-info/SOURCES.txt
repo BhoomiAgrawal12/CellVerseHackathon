@@ -1,0 +1,6 @@
+setup.py
+FastApiBackend.egg-info/PKG-INFO
+FastApiBackend.egg-info/SOURCES.txt
+FastApiBackend.egg-info/dependency_links.txt
+FastApiBackend.egg-info/requires.txt
+FastApiBackend.egg-info/top_level.txt

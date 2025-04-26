@@ -1,40 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Swasthika — AI-Powered Mental Health Rehabilitation Platform
 
-## Getting Started
+## Overview
 
-First, run the development server:
+**Swasthika** is an AI-powered platform that offers intelligent and personalized mental health rehabilitation. It combines clinical psychology principles with modern AI to support users dealing with **PTSD, addiction, social anxiety, depression, binge eating, obesity**, and more.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+It features **gamified recovery modules**, **personalized diet charts** , **symptom based disease prediction**, and an **AI chatbot** that simulates therapeutic sessions based on user input, encouraging consistent engagement and emotional wellness.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Preliminary mental health quiz** for condition detection
+- **AI-powered chatbot** for therapy simulation
+- **Gamified recovery journey** to track progress through badges, rewards, and milestones
+- **Custom diet chart generation** based on mental health conditions and physical needs
+- **Privacy-first architecture** with anonymized data flow
 
 ## Video Demo
 
-You can watch a video demo of this project here: [Video Demo](https://drive.google.com/file/d/1rBWRtJfZFnloudwv-PtoMUsALH0D1YmR/view)
+Watch our project demo here: [Swasthika Demo Video](https://drive.google.com/file/d/1rBWRtJfZFnloudwv-PtoMUsALH0D1YmR/view)
+
+## Tech Stack
+
+- **Frontend**: Next.js, Tailwind CSS, TypeScript
+- **Backend**: FastAPI
+- **AI Model**: Gemini API (Google AI)
+- **Database**: PostgreSQL
+- **Authentication & Email**: Resend API
+- **Gamification Engine**: Custom logic using state-based progression
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/BhoomiAgrawal12/CellVerseHackathon
+cd CellVerseHackathon
+```
+
+### 2. Create a Vitual Environment
+
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate the environment
+# For Windows:
+venv\Scripts\activate
+
+# For macOS/Linux:
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### 3. Run the Backend
+
+```bash
+cd FastAPIBackend
+uvicorn main:app --reload
+```
+
+### 3.In a new terminal Run the Frontend
+
+```bash
+cd ..
+npm install
+npm run dev
+
+```
+
+## Contributing
+
+We welcome contributions in the following areas:
+
+- Prompt engineering & AI fine-tuning
+- UI/UX for the gamified modules
+- NLP improvements for chatbot interaction
+- Integration of voice support and accessibility features
+
+### To contribute:
+
+- Fork this repo
+- Create a branch: `git checkout -b feature-name`
+- Submit a pull request
+
+## License
+
+[MIT](LICENSE)
+
+---
+
+Built with ❤ to support mental wellness through technology.

@@ -1,0 +1,5 @@
+.git/
+.next/
+.vscode/
+__pycache__/
+*.egg-info/

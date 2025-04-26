@@ -1,55 +1,39 @@
-"use client";
-
-import { useState, useEffect } from "react";
-import {
-  Chart as ChartJS,
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  BarElement,
-  ArcElement,
-  RadialLinearScale,
-  Title,
-  Tooltip,
-  Legend,
-  Filler,
-} from "chart.js";
-import { Line, Bar, Pie, Radar } from "react-chartjs-2";
-
-// Register Chart.js components
-ChartJS.register(
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  BarElement,
-  ArcElement,
-  RadialLinearScale,
-  Title,
-  Tooltip,
-  Legend,
-  Filler
-);
-
+import Dashboard from "./Dashboard";
 interface GameProgress {
-  id: string;
-  userId: string;
-  gameId: string;
-  datePlayed: string;
-  score: number;
-  completion: boolean;
-  timeSpent?: number | null;
-  accuracy?: number | null;
-  difficulty: string;
-  streak?: number | null;
-  dropOffRate: number;
-  frustrationScore?: number | null;
-  badgesEarned: string[];
-  challengesDone?: number | null;
-  gameData?: any;
+    id: string;
+    userId: string;
+    gameId: string;
+    datePlayed: string;
+    score: number;
+    completion: boolean;
+    timeSpent?: number | null;
+    accuracy?: number | null;
+    difficulty: string;
+    streak?: number | null;
+    dropOffRate: number;
+    frustrationScore?: number | null;
+    badgesEarned: string[];
+    challengesDone?: number | null;
+    gameData?: any;
+  }
+
+async function fetchInitialGameData(): Promise<GameProgress[]> {
+  try {
+    const res = await fetch("/api/games/progress", {
+      cache: "no-store",
+    });
+
+    if (!res.ok) throw new Error("Failed to fetch");
+
+    const data = await res.json();
+    return Array.isArray(data) ? data : [];
+  } catch (error) {
+    console.error("Error fetching game data:", error);
+    return [];
+  }
 }
 
+<<<<<<< HEAD
 export default function Dashboard() {
   const [gameData, setGameData] = useState<GameProgress[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
@@ -614,4 +598,10 @@ export default function Dashboard() {
       </div>
     </div>
   );
+=======
+export default async function DashboardPage() {
+  const initialData = await fetchInitialGameData();
+
+  return <Dashboard initialData={initialData} />;
+>>>>>>> 32b80f26170e47fe66bccc637565f49a38efb2cb
 }

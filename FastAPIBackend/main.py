@@ -7,12 +7,17 @@ import re
 import json
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
+
+from langchain.document_loaders import PyPDFLoader
+from langchain.vectorstores import Chroma
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.embeddings import HuggingFaceEmbeddings 
+from langchain.chains import RetrievalQA
 load_dotenv()
 
 
 app = FastAPI()
 
-# Enable CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], 
@@ -231,7 +236,17 @@ async def generate_diet_chart(request: DetailedAssessmentRequest):
         print("Error:", e)
         raise HTTPException(status_code=500, detail=str(e))
 
-# BEFORE CHANGES FOR FORMATTING
+
+pdf_path = "./archive/json-to-pdf.pdf"
+loader = PyPDFLoader(pdf_path)
+documents = loader.load()
+
+splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
+docs = splitter.split_documents(documents)
+embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+db = Chroma.from_documents(docs, embedding, persist_directory="./chroma_db")
+db.persist()
+
 @app.post("/chat")
 async def chat(request: chatRequest):
     print("Received Request:", request) 
@@ -240,7 +255,7 @@ async def chat(request: chatRequest):
         if not request.responses:
             raise HTTPException(status_code=400, detail="No responses provided")
 
-        # Format patient responses as a bullet list
+      
         response_text = "\n".join([f"- **{q}**: {a}" for q, a in request.responses.items()])
 
         if len(request.chat_history) == 1:
@@ -273,7 +288,20 @@ async def chat(request: chatRequest):
  
         formatted_history += "\n\nPlease keep your response within 100 words."
 
-        response = llm.invoke(formatted_history)
+        # response = llm.invoke(formatted_history)
+        retriever = db.as_retriever(search_kwargs={"k": 3})
+        retrieved_docs = retriever.get_relevant_documents(latest_message)
+        rag_context = "\n".join([doc.page_content for doc in retrieved_docs])
+        
+        final_prompt = f"""
+         Use the following context to help answer the user's query:\n
+         {rag_context}
+
+         Chat History:
+         {formatted_history}
+          """
+
+        response = llm.invoke(final_prompt)
         if not response:
          raise HTTPException(status_code=500, detail="LLM returned empty response")
        
